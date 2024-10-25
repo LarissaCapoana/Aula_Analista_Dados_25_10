@@ -1,3 +1,5 @@
+//curso de analista de dados
+
 def calcular_inss(salario_bruto):
 
     if salario_bruto <= 1412:
